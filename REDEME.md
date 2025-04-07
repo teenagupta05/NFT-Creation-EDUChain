@@ -28,3 +28,6 @@ The project's goal is to offer a simple and educational smart contract for NFT m
 ---
 
 > Made with 💡 in Solidity — pure, clean, and dependency-free!
+> ## Contract Details:0x3921e140E01B9ed67D3a60d924786D015A1a6F8f
+> ![image](https://github.com/user-attachments/assets/f04cb5c1-ac09-4050-8b54-02e6c6dae977)
+
